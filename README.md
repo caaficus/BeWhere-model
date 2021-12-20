@@ -27,3 +27,10 @@ The optimization model in GAMS consists of [7 files](https://github.com/caaficus
 5. [Objective_function](https://github.com/caaficus/BeWhere-model/blob/main/GAMS/Objective_Function.gms): Optimization model formulation (economic and environmental criteria).
 6. [Results](https://github.com/caaficus/BeWhere-model/blob/main/GAMS/Results.gms): Results reporting format.
 7. [GAMS files compiler](https://github.com/caaficus/BeWhere-model/blob/main/GAMS/LCA_BeWhere_BioPlastic_Start.gms): Compile the previous GAMS files to run the optimization model.
+
+# Authors
+
+The BeWhere model was developed by [Sylvain Leduc](https://iiasa.ac.at/web/home/research/researchPrograms/EcosystemsServicesandManagement/-Leduc--Sylvain-.en.html) during his [PhD thesis](https://www.diva-portal.org/smash/get/diva2:989798/FULLTEXT01.pdf).
+
+The BeWhere model was adapted to the biobased PET supply chain by [Carlos García-Velásquez](https://ppp.maastrichtuniversity.nl/users/c.garciavelasquez?language=en) during the summer school 2019 in the International Institute of Applied Science Analysis (IIASA). 
+
